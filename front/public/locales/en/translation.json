@@ -1,0 +1,14 @@
+{
+  "confirmGeneration": "Are you sure you want to generate a {{type}} with {{area}} area, {{floors}} {{floors === 1 ? 'floor' : 'floors'}}, and a budget of {{budget}}?",
+  "house": "house",
+  "apartment": "apartment",
+  "hospital": "hospital",
+  "school": "school",
+  "commercial": "commercial",
+  "errorUploadFile": "Please upload a file first.",
+  "errorSelectProjectType": "Please select a project type.",
+  "errorInvalidArea": "Please enter a valid area greater than 0.",
+  "errorSelectFloors": "Please select at least 1 floor.",
+  "errorInvalidBudget": "Budget must be at least 250,000",
+  "newProject": "New Project"
+}

@@ -1,0 +1,293 @@
+{
+  "building_type": "COMPANY",
+  "land_shape": "rectangle",
+  "land_dimensions": {
+    "width": 20.615528128088304,
+    "height": 12.126781251816649
+  },
+  "budget": 1200000.0,
+  "designs": [
+    {
+      "design_number": 1,
+      "image_path": "1.png",
+      "statistics": {
+        "building_area": 212.14922874411405,
+        "usable_area": 212.14922874411405,
+        "efficiency": 100.0,
+        "rooms": [
+          {
+            "name": "Lobby",
+            "area": 15.475006197200841
+          },
+          {
+            "name": "Meeting Room",
+            "area": 13.932759617029406
+          },
+          {
+            "name": "Conference",
+            "area": 25.75103365923941
+          },
+          {
+            "name": "Open Office",
+            "area": 48.4737401294809
+          },
+          {
+            "name": "Manager Office",
+            "area": 21.00610651628151
+          },
+          {
+            "name": "Break Room",
+            "area": 14.800396569883468
+          },
+          {
+            "name": "IT Room",
+            "area": 12.459805091670107
+          },
+          {
+            "name": "Bathroom 1",
+            "area": 34.091883254912574
+          },
+          {
+            "name": "Server Room 1",
+            "area": 26.158497708415833
+          }
+        ]
+      }
+    },
+    {
+      "design_number": 2,
+      "image_path": "2.png",
+      "statistics": {
+        "building_area": 212.14922874411405,
+        "usable_area": 212.14922874411405,
+        "efficiency": 100.0,
+        "rooms": [
+          {
+            "name": "Lobby",
+            "area": 9.634096893464452
+          },
+          {
+            "name": "Meeting Room",
+            "area": 17.01128376272122
+          },
+          {
+            "name": "Conference",
+            "area": 28.513418817283984
+          },
+          {
+            "name": "Open Office",
+            "area": 13.051256236770204
+          },
+          {
+            "name": "Manager Office",
+            "area": 66.1584392596688
+          },
+          {
+            "name": "Break Room",
+            "area": 9.672489757417468
+          },
+          {
+            "name": "IT Room",
+            "area": 7.857863053459527
+          },
+          {
+            "name": "Bathroom 1",
+            "area": 33.06082854387779
+          },
+          {
+            "name": "Print Room 1",
+            "area": 27.189552419450617
+          }
+        ]
+      }
+    },
+    {
+      "design_number": 3,
+      "image_path": "3.png",
+      "statistics": {
+        "building_area": 212.14922874411405,
+        "usable_area": 212.14922874411405,
+        "efficiency": 100.0,
+        "rooms": [
+          {
+            "name": "Lobby",
+            "area": 12.357551700749237
+          },
+          {
+            "name": "Meeting Room",
+            "area": 16.97352459820368
+          },
+          {
+            "name": "Conference",
+            "area": 25.82772317451674
+          },
+          {
+            "name": "Open Office",
+            "area": 54.46045432792646
+          },
+          {
+            "name": "Manager Office",
+            "area": 17.824720039215528
+          },
+          {
+            "name": "Break Room",
+            "area": 14.487110232443445
+          },
+          {
+            "name": "IT Room",
+            "area": 9.96776370773055
+          },
+          {
+            "name": "Bathroom 1",
+            "area": 37.25315944826476
+          },
+          {
+            "name": "Server Room 1",
+            "area": 22.997221515063647
+          }
+        ]
+      }
+    },
+    {
+      "design_number": 4,
+      "image_path": "4.png",
+      "statistics": {
+        "building_area": 212.14922874411405,
+        "usable_area": 197.86660775071422,
+        "efficiency": 93.26765358613348,
+        "rooms": [
+          {
+            "name": "Lobby",
+            "area": 15.585745964806536
+          },
+          {
+            "name": "Meeting Room",
+            "area": 15.55653090781068
+          },
+          {
+            "name": "Conference",
+            "area": 24.01652260085244
+          },
+          {
+            "name": "Open Office",
+            "area": 42.1190008599119
+          },
+          {
+            "name": "Manager Office",
+            "area": 26.940164580612183
+          },
+          {
+            "name": "Break Room",
+            "area": 13.96631610086174
+          },
+          {
+            "name": "IT Room",
+            "area": 13.71456676593016
+          },
+          {
+            "name": "Storage 1",
+            "area": 25.62358595237795
+          },
+          {
+            "name": "Bathroom 1",
+            "area": 20.34417401755062
+          }
+        ]
+      }
+    },
+    {
+      "design_number": 5,
+      "image_path": "5.png",
+      "statistics": {
+        "building_area": 212.14922874411405,
+        "usable_area": 196.19804508829318,
+        "efficiency": 92.4811493540424,
+        "rooms": [
+          {
+            "name": "Lobby",
+            "area": 15.91911209020506
+          },
+          {
+            "name": "Meeting Room",
+            "area": 16.95459672982207
+          },
+          {
+            "name": "Conference",
+            "area": 22.285090653442527
+          },
+          {
+            "name": "Open Office",
+            "area": 20.38086068642477
+          },
+          {
+            "name": "Manager Office",
+            "area": 62.095791155981566
+          },
+          {
+            "name": "Break Room",
+            "area": 7.844667660908409
+          },
+          {
+            "name": "IT Room",
+            "area": 6.418728804001243
+          },
+          {
+            "name": "Storage 1",
+            "area": 23.38953942165774
+          },
+          {
+            "name": "Bathroom 1",
+            "area": 20.909657885849803
+          }
+        ]
+      }
+    },
+    {
+      "design_number": 6,
+      "image_path": "6.png",
+      "statistics": {
+        "building_area": 212.14922874411405,
+        "usable_area": 212.14922874411405,
+        "efficiency": 100.0,
+        "rooms": [
+          {
+            "name": "Lobby",
+            "area": 13.722704525787181
+          },
+          {
+            "name": "Meeting Room",
+            "area": 17.1258575303525
+          },
+          {
+            "name": "Conference",
+            "area": 24.31023741732998
+          },
+          {
+            "name": "Open Office",
+            "area": 13.277531058106419
+          },
+          {
+            "name": "Manager Office",
+            "area": 65.03618313085585
+          },
+          {
+            "name": "Break Room",
+            "area": 10.011057644804858
+          },
+          {
+            "name": "IT Room",
+            "area": 8.41527647354887
+          },
+          {
+            "name": "Bathroom 1",
+            "area": 33.411275805839985
+          },
+          {
+            "name": "Print Room 1",
+            "area": 26.839105157488422
+          }
+        ]
+      }
+    }
+  ]
+}

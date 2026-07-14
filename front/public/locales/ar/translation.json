@@ -1,0 +1,14 @@
+{
+  "confirmGeneration": "هل أنت متأكد أنك تريد إنشاء {{type}} بمساحة {{area}} و {{floors}} {{floors === 1 ? 'طابق' : 'طوابق'}} وميزانية {{budget}}؟",
+  "house": "منزل",
+  "apartment": "شقة",
+  "hospital": "مستشفى",
+  "school": "مدرسة",
+  "commercial": "تجاري",
+  "errorUploadFile": "الرجاء رفع الملف أولاً.",
+  "errorSelectProjectType": "الرجاء اختيار نوع المشروع.",
+  "errorInvalidArea": "الرجاء إدخال مساحة صحيحة أكبر من الصفر.",
+  "errorSelectFloors": "الرجاء اختيار طابق واحد على الأقل.",
+  "errorInvalidBudget": "يجب أن تكون الميزانية 250,000 على الأقل",
+  "newProject": "مشروع جديد"
+}
