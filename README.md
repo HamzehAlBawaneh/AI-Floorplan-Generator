@@ -160,6 +160,13 @@ https://drive.google.com/drive/folders/1a8FXaG5sve1D3Go5lOL4YSJNtwJ_oXNM?usp=sha
 
 ---
 
+## My Contributions
+
+- Designed and implemented the AI-powered floorplan generation pipeline.
+- Contributed to procedural layout generation and geometry processing.
+- Assisted in backend integration and system architecture.
+- Improved project documentation and repository organization.
+
 ## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
